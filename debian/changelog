@@ -1,3 +1,9 @@
+zacalc (0.3.3+edusantara2) anambas; urgency=low
+
+  * Menghapus typo Sutriyo
+
+ -- Mona <monalisa.nov@gmail.com>  Mon, 25 Aug 2014 14:52:09 +0700
+
 zacalc (0.3.3+edusantara1) anambas; urgency=low
 
   * import to edusantara
